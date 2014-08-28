@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- 
+        (c) 2014 asrarlabs.com
+        this file is color palette for android application project
+
+        this color palette colection based on
+        http://www.flatuicolorpicker.com/ by vbaimas
+
+        copy this file to res/values/colors.xml
+
+        ex. usage: 
+        in xml file @colors/chestnut_rose
+        in java file R.colors.chestnut_rose
+    -->
+
+    <color name="chestnut_rose">#D24D57</color>
+    <color name="pomegranate">#F22613</color>
+    <color name="red">#FF0000</color>
+    <color name="thunderbird">#D91E18</color>
+    <color name="old_brick">#96281B</color>
+    <color name="flamingo">#EF4836</color>
+    <color name="valencia">#D64541</color>
+    <color name="tall_poppy">#C0392B</color>
+    <color name="monza">#CF000F</color>
+    <color name="cinnabar">#E74C3C</color>
+    <color name="razzmatazz">#DB0A5B</color>
+    <color name="derby">#FFECDB</color>
+    <color name="sunset_orange">#F64747</color>
+    <color name="wax_flower">#F1A9A0</color>
+    <color name="cabaret">#D2527F</color>
+    <color name="new_york_pink">#E08283</color>
+    <color name="radical_red">#F62459</color>
+    <color name="sunglo">#E26A6A</color>
+    <color name="snuff">#DCC6E0</color>
+    <color name="rebeccapurple">#663399</color>
+    <color name="honey_flower">#674172</color>
+    <color name="wistful">#AEA8D3</color>
+    <color name="plum">#913D88</color>
+    <color name="seance">#9A12B3</color>
+    <color name="medium_purple">#BF55EC</color>
+    <color name="light_wisteria">#BE90D4</color>
+    <color name="studio">#8E44AD</color>
+    <color name="wisteria">#9B59B6</color>
+    <color name="alice_blue">#E4F1FE</color>
+    <color name="royal_blue">#4183D7</color>
+    <color name="picton_blue">#59ABE3</color>
+    <color name="spray">#81CFE0</color>
+    <color name="shakespeare">#52B3D9</color>
+    <color name="humming_bird">#C5EFF7</color>
+    <color name="picton_blue">#22A7F0</color>
+    <color name="curious_blue">#3498DB</color>
+    <color name="madison">#2C3E50</color>
+    <color name="dodger_blue">#19B5FE</color>
+    <color name="ming">#336E7B</color>
+    <color name="ebony_clay">#22313F</color>
+    <color name="malibu">#6BB9F0</color>
+    <color name="curious_blue">#1E8BC3</color>
+    <color name="chambray">#3A539B</color>
+    <color name="pickled_bluewood">#34495E</color>
+    <color name="hoki">#67809F</color>
+    <color name="jelly_bean">#2574A9</color>
+    <color name="jacksons_purple">#1F3A93</color>
+    <color name="jordy_blue">#89C4F4</color>
+    <color name="steel_blue">#4B77BE</color>
+    <color name="fountain_blue">#5C97BF</color>
+    <color name="medium_turquoise">4ECDC4</color>
+    <color name="aqua_island">#A2DED0</color>
+    <color name="gossip">#87D37C</color>
+    <color name="dark_sea_green">#90C695</color>
+    <color name="eucalyptus">#26A65B</color>
+    <color name="caribbean_green">#03C9A9</color>
+    <color name="silver_tree">#68C3A3</color>
+    <color name="downy">#65C6BB</color>
+    <color name="mountain_meadow">#1BBC9B</color>
+    <color name="light_sea_green">#1BA39C</color>
+    <color name="medium_aquamarine">#66CC99</color>
+    <color name="turquoise">#36D7B7</color>
+    <color name="madang">#C8F7C5</color>
+    <color name="riptide">#86E2D5</color>
+    <color name="shamrock">#2ECC71</color>
+    <color name="mountain_meadow">#16a085</color>
+    <color name="emerald">#3FC380</color>
+    <color name="green_haze">#019875</color>
+    <color name="free_speech_aquamarine">#03A678</color>
+    <color name="ocean_green">#4DAF7C</color>
+    <color name="jungle_green">#2ABB9B</color>
+    <color name="jade">#00B16A</color>
+    <color name="salem">#1E824C</color>
+    <color name="observatory">#049372</color>
+    <color name="jungle_green">#26C281</color>
+    <color name="cape_honey">#FDE3A7</color>
+    <color name="california">#F89406</color>
+    <color name="fire_bush">#EB9532</color>
+    <color name="tahiti_gold">#E87E04</color>
+    <color name="casablanca">#F4B350</color>
+    <color name="crusta">#F2784B</color>
+    <color name="jaffa">#EB974E</color>
+    <color name="lightning_yellow">#F5AB35</color>
+    <color name="burnt_orange">#D35400</color>
+    <color name="buttercup">#F39C12</color>
+    <color name="ecstasy">#F9690E</color>
+    <color name="sandstorm">#F9BF3B</color>
+    <color name="jaffa">#F27935</color>
+    <color name="zest">#E67E22</color>
+    <color name="lynch">#6C7A89</color>
+    <color name="pumice">#D2D7D3</color>
+    <color name="gallery">#EEEEEE</color>
+    <color name="silver_sand">#BDC3C7</color>
+    <color name="porcelain">#ECF0F1</color>
+    <color name="cascade">#95A5A6</color>
+    <color name="iron">#DADFE1</color>
+    <color name="edward">#ABB7B7</color>
+    <color name="cararra">#F2F1EF</color>
+    <color name="silver">#BFBFBF</color>
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

@@ -1,0 +1,36 @@
+GIMP Palette
+Name: Bootflat
+Columns: 4
+
+# (c) 2014 asrarlabs.com
+# this file is color palette for android application project
+#
+# this color palette colection based on 
+# http://bootflat.github.io/documentation.html by FLATHEMES, Inc.
+
+255 255 255 White
+  0   0   0 Black
+ 93 156 236	Blue Jeans 1
+ 74 137 220	Blue Jeans 2
+ 79 193 233	Aqua 1
+ 59 175 218	Aqua 2
+ 72 207 173	Mint 1
+ 55 188 155	Mint 2
+160 212 104	Grass 1
+140 193  82	Grass 2
+255 206  84	Sunflower 1
+246 187  66	Sunflower 2
+252 110  81	Bittersweet 1
+233  87  63	Bittersweet 2
+237  85 101	Grapefruit 1
+218  68  83	Grapefruit 2
+172 146 236	Lavender 1
+150 122 220	Lavender 2
+236 135 192	Pink Rose 1
+215 112 173	Pink Rose 2
+245 247 250	Light Gray 1
+230 233 237	Light Gray 2
+204 209 217	Medium Gray 1
+170 178 189	Medium Gray 2
+101 109 120	Dark Gray 1
+ 67  74  84	Dark Gray 2
