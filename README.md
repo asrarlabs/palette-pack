@@ -27,11 +27,25 @@ txName.setBackgroundColor(getResources().getColor(R.color.pomegranate));
 txName.setTextColor(getResources().getColor(R.color.clouds));
 ```
 
+Pratampil
+---
+***Bootflat***
+
+![Bootflat](https://raw.githubusercontent.com/asrarlabs/palette-pack/master/bootflat/preview.png)
+
+***Flat UI***
+
+![Flat UI](https://raw.githubusercontent.com/asrarlabs/palette-pack/master/flat-ui/preview.png)
+
+***Flat UI Color Picker***
+
+![Flat UI Color Picker](https://raw.githubusercontent.com/asrarlabs/palette-pack/master/flat-ui-color-picker/preview.png)
+
 Sumber
 ---
 * [Bootflat] [1]
 * [Flat UI][2]
-*  [Flat UI Color Picker][3]
+* [Flat UI Color Picker][3]
 
 [0]:https://github.com/asrarlabs/palette-pack/blob/master/README.en.md
 [1]:http://bootflat.github.io/documentation.html
